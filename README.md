@@ -12,7 +12,7 @@ The 'Video Meme Compiler' can help users by saving them time and effort in searc
 ### Related Links
 
 [Not Sure Meme](https://github.com/sourceduty/Not_Sure_Meme)
-<br<
+<br>
 [Spot_the_Difference](https://github.com/sourceduty/Spot_the_Difference)
 
 ***
